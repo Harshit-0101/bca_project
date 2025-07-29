@@ -90,6 +90,5 @@ public class main {
             } else {
                 System.out.println("Invalid subject");
             }
-
     }
 }
