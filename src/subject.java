@@ -4,5 +4,4 @@ public class subject {
     String sub3;
     String sub4;
     String sub5;
-
 }

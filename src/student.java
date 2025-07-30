@@ -13,4 +13,10 @@ public class student {
         System.out.print("Rollno = ");
         System.out.println(rollno = 246109002);
     }
+    public void student3() {
+        System.out.print("Name = ");
+        System.out.println(name = "Dheeraj");
+        System.out.print("Rollno = ");
+        System.out.println(rollno = 246109004);
+    }
 }

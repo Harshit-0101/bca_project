@@ -1,3 +1,6 @@
+// many changing we do in this firstly we do room no also there.
+
+
 import java.sql.SQLOutput;
 import java.util.*;
 
@@ -39,6 +42,8 @@ public class main {
                 bca_student.student1();
                 System.out.println();
                 bca_student.student2();
+                System.out.println();
+                bca_student.student3();
                 System.out.println("------------------------TEACHER DETAIL-----------------------------------");
                 System.out.print("Maths teacher name is = ");
                 bca_teacher.teacher4();
@@ -50,6 +55,8 @@ public class main {
                 bca_student.student1();
                 System.out.println();
                 bca_student.student2();
+                System.out.println();
+                bca_student.student3();
                 System.out.println("------------------------TEACHER DETAIL-----------------------------------");
                 System.out.print("Computer Organisation teacher name is = ");
                 bca_teacher.teacher1();
@@ -61,6 +68,8 @@ public class main {
                 bca_student.student1();
                 System.out.println();
                 bca_student.student2();
+                System.out.println();
+                bca_student.student3();
                 System.out.println("------------------------TEACHER DETAIL-----------------------------------");
                 System.out.print("Desktop Publishing & Design teacher name is = ");
                 bca_teacher.teacher3();
@@ -72,6 +81,8 @@ public class main {
                 bca_student.student1();
                 System.out.println();
                 bca_student.student2();
+                System.out.println();
+                bca_student.student3();
                 System.out.println("------------------------TEACHER DETAIL-----------------------------------");
                 System.out.print("OOPs with C++ teacher name is = ");
                 bca_teacher.teacher2();
@@ -83,6 +94,8 @@ public class main {
                 bca_student.student1();
                 System.out.println();
                 bca_student.student2();
+                System.out.println();
+                bca_student.student3();
                 System.out.println("------------------------TEACHER DETAIL-----------------------------------");
                 System.out.print("Business teacher name is = ");
                 bca_teacher.teacher5();
